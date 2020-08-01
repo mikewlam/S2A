@@ -11,4 +11,4 @@ What's particularly revealing is that the perception of machines can in fact be 
 
 In addition to this, what I didn't realise was that generative and parametric design intergrates within so many fields and are so unrestrictive that opportunities really are boundless. An instance that I came across through a recent search of examples lead me to the industry of automotive design. In an industry that came from conventional manual labour and precise engineering, parametric design provides a breakthrough in efficiency as well as an unique aesthetic difference. In many of Karen and Andy's generative projects, many of them involved elements of polemic discourse and places an artefact that is very much physical within a cultural landscape. I really do feel that this is something that I would like to achieve at the end of this course.</br>
 
-###Notable Artist and Project Case Study
+### Notable Artist and Project Case Study
