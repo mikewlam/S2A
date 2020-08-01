@@ -1,6 +1,6 @@
 ###### an example
 
-Interval as Line Distance ~~> setting parameters for interval increment to draw line with **lineDistance+=3**
+Interval as Line Distance ~~> setting parameters for interval increment to draw line with **lineDistance+=3** </br>
 Condition **if (mousePressed)** ~~> enables drawing when mouse is pressed
 
 #### //Sketch made 31/7/2020 by sylvain </br> //remixed for horizontal lines by Karen ann </br>
