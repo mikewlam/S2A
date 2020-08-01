@@ -1,4 +1,10 @@
-# The basic code lines
+# W2 — 31.08
+
+###### Summary
+
+This week was a short but packed introduction to **Processing**, dipping toes into the world of cartesian thinking – processing in terms of coordinates. Below are a set of codes being introduced and experimented with:
+
+###### The basic code lines
 
 void setup(){</br>
 }</br>
