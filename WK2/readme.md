@@ -23,3 +23,8 @@ mouseX ~~> the position of your mouse horizontally </br>
 mouseY ~~> the position of your mouse vertically </br>
 translate(x,y); //this moves your crosshairs or cartesian reference point</br>
 rotate(angle);</br>
+if (mousePressed){
+}
+else {
+}
+
