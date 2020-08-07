@@ -13,5 +13,6 @@ In addition to this, what I didn't realise was that generative and parametric de
 
 ###Notable Artist and Project Case Study
 
+
+<img src="Class-Activity_Parameters.png" width="350" />
 <img src="IMG_9122.png" width="550" />
-<img src="Class-Activity_Parameters.png" width="550" />
