@@ -13,4 +13,4 @@ In addition to this, what I didn't realise was that generative and parametric de
 
 ###Notable Artist and Project Case Study
 
-<img src="yourImage.jpg" width="350" />
+<img src="IMG_9122.png" width="550" />
