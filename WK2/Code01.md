@@ -1,4 +1,4 @@
-###### a sketch that draws circle in the set size depending on where the mouse cursor moves. The lines also has a fixed starting point at the centre that connects to the drawing circles. This sketch is called the *Moving Lollipop*
+## a sketch that draws circle in the set size depending on where the mouse cursor moves. The lines also has a fixed starting point at the centre that connects to the drawing circles. This sketch is called the *Moving Lollipop*
 
 //Sketch made on 31st of July, 2020 by Michael//
 
