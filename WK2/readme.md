@@ -2,6 +2,10 @@
 
 ###### Summary
 
+Prior to this week's class, Karen proposed a 12 hour challenge in which we given the task to engage in one of our regular daily activities with algorithmic outcomes. Becoming slaves to our own algorithm. As it was late in the evening by the time I got around to this, I decided to incorporate this challenge to a stretching routine. By compiling (observing) some simple systems or rules that I would usually carry through and assigning each rule to a 6 sided dice, I let chance dictate whether I</br>-*A. Switch Light on/off,</br>B. Use Mat or Not,</br>C. Sit down or Standing,</br>D. Body Part, and</br>E. For how long.</br>
+
+<src img=https://github.com/mikewlam/S2A/blob/master/WK2/StretchRoutineRules.png></br>[*Dice Generated Stretching Routine*](https://vimeo.com/446449879)
+
 This week was a short but packed introduction to **Processing**, dipping toes into the world of cartesian thinking – processing in terms of coordinates. We're introduced to 
 
 
