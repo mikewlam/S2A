@@ -6,3 +6,6 @@
 ![FANDRAWING2](https://user-images.githubusercontent.com/68724434/89785358-a252d380-db5d-11ea-8c1c-e8b4e86777a7.jpg)
 ###### Second part of *Fan Drawing*
 ![FANDRAWING5](https://user-images.githubusercontent.com/68724434/89785365-a7b01e00-db5d-11ea-990f-d845c56937e7.jpg)
+
+###### In Semester 1 of 2019, For my studio assignment I designed and built a drawing mechanism that marks the movements of my body. This is the only picture I could find on my current machine.
+![091EB1E8-DB48-4AA8-AD27-B53342195494 2](https://user-images.githubusercontent.com/68724434/89786124-c7941180-db5e-11ea-9e43-7ec5ad125e64.png)
