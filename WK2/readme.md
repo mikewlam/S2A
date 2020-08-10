@@ -43,3 +43,7 @@ else {
 }
 
 <img src="weird-selfportrait.png" width="550" />
+
+Remixing Vinny's character to have moving interactive eyebrows
+
+<img src=https://github.com/mikewlam/S2A/blob/master/WK2/MovingBrow.png><img src=https://github.com/mikewlam/S2A/blob/master/WK2/AngryBrow.png>
