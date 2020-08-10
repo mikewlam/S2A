@@ -10,7 +10,7 @@ Below are a set of codes being introduced and experimented with:
 
 ###### The basic code lines
 
->void setup(){</br>
+void setup(){</br>
 }</br>
 *Set up the canvas for following codes to operate on. Such as Size, Background color*
 void draw(){</br>
