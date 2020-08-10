@@ -1,3 +1,5 @@
+###### a sketch that draws circle in the set size depending on where the mouse cursor moves. The lines also has a fixed starting point at the centre that connects to the drawing circles. This sketch is called the *Moving Lollipop*
+
 //Sketch made on 31st of July, 2020 by Michael//
 
 void setup (){ </br>
@@ -23,3 +25,5 @@ fill (255, 255, 0);</br>
 void mousePressed(){</br>
 background (mouseY/2, (mouseY+mouseX)/4, 250-mouseX/2);</br>
 }</br>
+
+<img src= >
