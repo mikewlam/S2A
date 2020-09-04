@@ -2,6 +2,7 @@
 
 ###### processing tutorial
 
+![Untitled-1](https://user-images.githubusercontent.com/68724434/92210721-9b0bb500-eed2-11ea-9cf6-339895cff2cf.gif)
 
 
 <img width="652" alt="Screen Shot 2020-08-14 at 11 21 52 am" src="https://user-images.githubusercontent.com/68724434/92199288-101ec080-eeba-11ea-9d11-21083920ac2e.png">
