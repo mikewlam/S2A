@@ -1,10 +1,11 @@
 # (W4) PROCESSING TYPOGRAPHY
 
+###### processing tutorial
 
-
+Going through the basics of text performance on processing this week. It was a great way to start understanding the foundations of how I can develop my generative project around language and text. This was also a great exercise to wrap my head around the idea of a variable as it was initially confusing to wrap my head around. But having shown the best practice of logically naming the variables make the application of the draw function a little more clear. We also began touching on the randomize function of processing, essentially letting a selction of a random integer within a set sample indicated by random() </br><in the example below with text, we added +1 to remove the possibility of 0>
 
 
 <img width="568" alt="Screen Shot 2020-08-14 at 2 08 25 pm" src="https://user-images.githubusercontent.com/68724434/91582770-9bb4c080-e993-11ea-8f28-8ed6ebcaed7b.png">
-![textdraw](https://user-images.githubusercontent.com/68724434/92197604-95ec3d00-eeb5-11ea-9bf8-b37b541c8991.gif)
+
 
 ![draw-000208](https://user-images.githubusercontent.com/68724434/92198510-ebc1e480-eeb7-11ea-8b05-5e684ec49b0d.png)
