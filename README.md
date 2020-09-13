@@ -16,4 +16,4 @@ Week by week summary of a RMIT studio journey can be found below:</br>
 11 </br>
 12 </br>
 
-###### This repository was created on [
+###### This repository was created on [24.07.2020]
