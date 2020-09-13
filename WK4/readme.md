@@ -1,4 +1,4 @@
-# W1_24.07.2020</br>
+# W1_14.07.2020</br>
 ## PROCESSING TUTORIAL ON IMAGE & TYPOGRAPHY
 
 ###### Tutorial Summary
