@@ -9,6 +9,7 @@ I do find these breakout groups to be quite engaging, and I think the culture wi
 ## PAPER PROTOTYPE EXERCISE
 
 ###### SUMMARY
+
 This one is a trip down nostalgia lane! Neo-bomberman is a huge favourite from back in the day. We got to spend a little time to put together paper prototypes as a way to visualize how something can or will work. I've come across this practice within a user experience studio I took last year, so I completely see the value in this exercise for our generative project. Not only does it help formalize our ideas, it may also bring up new possibilities as you see your idea into a scrappy tangible format. Anyway, here's the prototype i made for the neo-bomberman game.</br>
 ![unnamed](https://user-images.githubusercontent.com/68724434/92194757-cbd9f300-eeae-11ea-81f0-f5e32973d205.gif)<br/>
 ![neo-bomberman](https://user-images.githubusercontent.com/68724434/92194564-540bc880-eeae-11ea-9e4d-763b05feb168.gif)
