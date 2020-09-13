@@ -18,4 +18,4 @@ Going through the basics of text performance on processing this week. It was a g
 
 Been doing a lot of digging and reading during this week's session. Quite honestly the thought of executing a generative system is a little bit daunting. But I feel the way to tackle this is to approach it in bite sizes and build ontop of it. To approach it as a skills endeavour and developing ideas within my practice in a algorithmic and generative format. </br>
 ###### Some works I've been coming across</br>
-[The Ephemerids] (https://twitter.com/the_ephemerides)
+[The Ephemerids](https://twitter.com/the_ephemerides)
