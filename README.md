@@ -10,7 +10,7 @@ Week by week summary of a RMIT studio journey can be found below:</br>
 04-[PROCESSING TUTORIAL ON IMAGE + TYPOGRAPHY & PROJECT PITCH DEVELOPMENT](https://github.com/mikewlam/S2A/tree/master/WK4)</br>
 05-[PITCH WEEK - "READING THERAPY" (working title)](https://github.com/mikewlam/S2A/tree/master/WK5)</br>
 06-[PROJECT MAPPING & PAPER PROTOTYPE EXERCISE](https://github.com/mikewlam/S2A/tree/master/WK6)</br>
-07-[PROJECT UPDATE & GENERATIVE TYPOGRAPHY](https://github.com/mikewlam/S2A/tree/master/WK7)</br>
+07-[PROJECT UPDATE, PSUEDOCODE & GENERATIVE TYPOGRAPHY](https://github.com/mikewlam/S2A/tree/master/WK7)</br>
 08-</br>
 09-</br>
 10-</br>
