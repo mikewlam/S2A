@@ -11,7 +11,7 @@ Here is a link to [my pitch](https://docs.google.com/presentation/d/1BgXTr32X3XT
 
 ###### USEFUL RESOURCES THAT CAN GUIDE THE PROJECT INTO EXISTANCE
 
-[Allison Parrish published a github repository to guide through the process of using Python for Text and Data (Scraping)](https://github.com/aparrish/dmep-python-intro)</br>
-[A github repository on Generative Typography, which may inform the way I produce the final outcome, depending on which direction I end up taking](https://github.com/SpaceTypeContinuum/generative-typography)</br>
-[A guide to text and typography on Javascript](https://creative-coding.decontextualize.com/text-and-type/)</br>
-[Machine Learning for Natural Language Processing](https://ml5js.org/)
+1. [Allison Parrish published a github repository to guide through the process of using Python for Text and Data (Scraping)](https://github.com/aparrish/dmep-python-intro)</br>
+2. [A github repository on Generative Typography, which may inform the way I produce the final outcome, depending on which direction I end up taking](https://github.com/SpaceTypeContinuum/generative-typography)</br>
+3.[A guide to text and typography on Javascript](https://creative-coding.decontextualize.com/text-and-type/)</br>
+4.[Machine Learning for Natural Language Processing](https://ml5js.org/)
