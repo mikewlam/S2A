@@ -14,6 +14,6 @@ This one is a trip down nostalgia lane! Neo-bomberman is a huge favourite from b
 ![unnamed](https://user-images.githubusercontent.com/68724434/92194757-cbd9f300-eeae-11ea-81f0-f5e32973d205.gif)<br/>
 ![neo-bomberman](https://user-images.githubusercontent.com/68724434/92194564-540bc880-eeae-11ea-9e4d-763b05feb168.gif)
 
-###### **MID SEMESTER BREAK**
+### Steve Reich
 
-Very much looking forward to this time off..
+###### **NOW MID SEMESTER BREAK** Very much looking forward to this time off..
