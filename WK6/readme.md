@@ -16,4 +16,10 @@ This one is a trip down nostalgia lane! Neo-bomberman is a huge favourite from b
 
 ### Steve Reich
 
+Artist of interest
+
+### John Cage
+
+ASLSP (As Slow As Possible)</br>
+
 ###### **NOW MID SEMESTER BREAK** Very much looking forward to this time off..
