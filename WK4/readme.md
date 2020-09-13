@@ -1,4 +1,5 @@
-# (W4) PROCESSING IMAGE & TYPOGRAPHY
+# W1_24.07.2020</br>
+## PROCESSING FUNCTION ON IMAGE & TYPOGRAPHY
 
 ###### processing tutorial
 
