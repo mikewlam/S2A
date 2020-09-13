@@ -11,7 +11,6 @@ Going through the basics of text performance on processing this week. It was a g
 <img width="652" alt="Screen Shot 2020-08-14 at 11 21 52 am" src="https://user-images.githubusercontent.com/68724434/92199288-101ec080-eeba-11ea-9d11-21083920ac2e.png"></br>
 **Rotating Type**</br>
 <img width="568" alt="Screen Shot 2020-08-14 at 2 08 25 pm" src="https://user-images.githubusercontent.com/68724434/91582770-9bb4c080-e993-11ea-8f28-8ed6ebcaed7b.png"></br>
-![draw-000208](https://user-images.githubusercontent.com/68724434/92198510-ebc1e480-eeb7-11ea-8b05-5e684ec49b0d.png)</br>
 **Experiment**</br>
 ![RotateWord-0020](https://user-images.githubusercontent.com/68724434/93013084-8ae98900-f5e8-11ea-967a-2711e596084f.gif)
 
