@@ -1,4 +1,5 @@
-## (W3) OFFGRID SESSION AND PITCH INTRODUCTION
+# W3_07.08.2020</br>
+## OFFGRID SESSION ON [HUMAN MACHINE COLLABORATION] AND INTRODUCTION PITCH REQUIREMENTS
 
 ###### Summary
 We kicked off this week's session with an offgrid exercise which was super refreshing given the lockdown restrictions here in Melbourne going in full force for the first week (again). After seeing works from some various artists that demonstrate examples of rules-based design, we begin to explore the concept of *non human collaboration*. Essentially a system that defers agency and allows for an outcome that is only partially human influenced. We began by sketching ideas of objects and locations in our surrounding environment that could allow for us to create a drawing machine that isn't driven by conventional motions of drawing (ie. finger, wrist and arm movement)
