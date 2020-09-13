@@ -1,5 +1,5 @@
 # W3_07.08.2020</br>
-## OFFGRID SESSION ON [HUMAN MACHINE COLLABORATION] AND INTRODUCTION TO PITCH REQUIREMENTS
+## OFFGRID SESSION ON [HUMAN MACHINE COLLABORATION] 
 
 ###### Summary
 We kicked off this week's session with an offgrid exercise which was super refreshing given the lockdown restrictions here in Melbourne going in full force for the first week (again). After seeing works from some various artists that demonstrate examples of rules-based design, we begin to explore the concept of *non human collaboration*. Essentially a system that defers agency and allows for an outcome that is only partially human influenced. We began by sketching ideas of objects and locations in our surrounding environment that could allow for us to create a drawing machine that isn't driven by conventional motions of drawing (ie. finger, wrist and arm movement)
@@ -13,7 +13,15 @@ We kicked off this week's session with an offgrid exercise which was super refre
 ![FANDRAWING5](https://user-images.githubusercontent.com/68724434/89785365-a7b01e00-db5d-11ea-990f-d845c56937e7.jpg)
 
 Coincidently in Semester 1 of 2019, For my studio assignment I designed and built a drawing mechanism that marks the movements of my body.<br /> This is the only picture I could find on my current machine.<br />
-![091EB1E8-DB48-4AA8-AD27-B53342195494 2](https://user-images.githubusercontent.com/68724434/89786124-c7941180-db5e-11ea-9e43-7ec5ad125e64.png)
+![091EB1E8-DB48-4AA8-AD27-B53342195494 2](https://user-images.githubusercontent.com/68724434/89786124-c7941180-db5e-11ea-9e43-7ec5ad125e64.png)</br>
+
+## INTRODUCTION TO PITCH REQUIREMENTS
+As a preliminary speculation of our final project for this studio, we're tasked to consolidated our exposures to generative design, art and works within this field, and various learnings and readings to structure a possible project and pitch it within a 5 minute pecha kucha presentation.</br>
+**10 slides, 30s each, 5min in total**</br>
+Doesn't seem to be a big presentation and probably requires a huge effort in articulating the proposal in a short period of time but i think this would be a great point to start formalizing a final project.. even though the pitch doesn't neccessarily need to inform the final project.</br>
+During class time, Andy dropped a lot of wisdom. One specific point he meant was a distinction between a designer who solves problems and a designer who seeks problems... to solve. There was a lot about this that resonated with me especially as I reflect back onto my previous projects and the ways in which I approach each one, as well as moments where I come across ideas or projects and the responses I have to it. I definitely seek problems to solve, constantly trying to take things a step further..</br> Andy's comment was made as an advice for us to conceptualize our project with. Focusing less on the **what** and more on the **how** and especially on the **why**.</br>
+###### Speculate a system of experimental method that can generate design.</br>
+lots of thinking to do..</br>
 
 ###### Artists of Interest
 [Richard Dawson](https://wakeupscreaming.com/richard-dawson-the-tree-drawing-machine/) Tree Drawing Machine <br/>
