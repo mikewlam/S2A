@@ -1,4 +1,4 @@
-# :// 2 the Algorithm\\•:
+# ://Slave_2-theAlgorithm\\•:
 
 ## Welcome to a space for thoughts on generative design, language and typography.
 
