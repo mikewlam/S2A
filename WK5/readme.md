@@ -9,7 +9,7 @@ Spent a lot of time thinking and brainstorming over last week's content. There's
 
 Here is a link to [my pitch](https://docs.google.com/presentation/d/1BgXTr32X3XTD2ug8X4fwb3B89VxGWQo5JM76dwsLowI/edit?usp=sharing) to an idea that stems from an inquisition on whether reading is therapeutic. I think this inquiry comes from a bunch of thoughts and queries over the duration of Melbourne's pandemic lockdown as well as the politic climate across the globe, in addition to the exposure to works by Allison Parrish, Lauren McCarthy, Tan Lin and Paul Soullelis. </br>
 
-Tan Lin's work on Ambient Text was really the main intrigue that drove this trail of thought into an idea. Reimagining our understanding of texts has the function that is so similar to the effects of decolonizing our thoughts - through the practice of unlearning and relearning. In what ways can we incite the notion of reading and how can we take on new experiences of text that doesn't involve knowledge, productivity and subconscious pressure.
+Tan Lin's work on Ambient Text was really the main intrigue that drove this trail of thought into an idea. Reimagining our understanding of texts has the function that is so similar to the notion of decolonizing our thoughts - through the practice of unlearning and relearning. An interesting question on the ways we can incite the notion of reading seems to allow for a new experience to text and language that keeps away frome knowledge, productivity and subconscious pressure.
 
 ###### USEFUL RESOURCES THAT CAN GUIDE THE PROJECT INTO EXISTANCE
 
