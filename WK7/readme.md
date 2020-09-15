@@ -29,6 +29,10 @@ If (xposition < 0 && yposition <0)</br>
 
 
 ## PROJECT PROTOTYPE AND PSEUDOCODE
+###### SOME VERSIONS OF WHAT IT COULD LOOK LIKE?
+![Prototype-1](https://user-images.githubusercontent.com/68724434/93162632-8217c500-f758-11ea-99cf-e9a56a2e79d0.gif)
+XYZ
+
 
 ###### EXAMPLES
 
