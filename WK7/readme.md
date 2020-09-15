@@ -30,8 +30,11 @@ If (xposition < 0 && yposition <0)</br>
 
 ## PROJECT PROTOTYPE
 ###### SOME VERSIONS OF WHAT IT COULD LOOK LIKE?
-![Prototype-1](https://user-images.githubusercontent.com/68724434/93162632-8217c500-f758-11ea-99cf-e9a56a2e79d0.gif)</br>
-XYZ
+![Prototype-1](https://user-images.githubusercontent.com/68724434/93170351-759c6800-f76a-11ea-81af-bd13054d08c3.gif)</br>
+XYZ</br>
+![prototype-2](https://user-images.githubusercontent.com/68724434/93170357-78975880-f76a-11ea-8a83-f149d550c767.gif)</br>
+XYZ</br>
+
 
 ## PSEUDOCODES
 ###### EXAMPLES
