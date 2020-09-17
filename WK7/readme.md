@@ -1,8 +1,6 @@
 # W7_11.09.2020
 
 ## PROJECT UPDATE
-//![MindmapAgain](https://user-images.githubusercontent.com/68724434/93020497-c6a04500-f620-11ea-8a37-41eb88f20f61.png)
-
 <img width="814" alt="Screen Shot 2020-09-18 at 8 37 23 am" src="https://user-images.githubusercontent.com/68724434/93535399-36e4f880-f98a-11ea-9b5e-a0141754ce21.png">
 </br> ![Screen Shot 2020-09-18 at 8 40 39 am](https://user-images.githubusercontent.com/68724434/93535620-a9ee6f00-f98a-11ea-9ad7-c542019226ba.png)
 </br>
