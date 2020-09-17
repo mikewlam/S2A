@@ -62,10 +62,24 @@ START
 
 ```
 START
-  INPUT TEXT<br>
+  Var ENCODER
+  INPUT TEXT
+    Process data and convert information
   OUTPUT VECTOR
-  INPUT int(VECTOR)
-    GENERATE GRAPHICS????
+  INPUT int(Enconder)
+    If Encoder > 0 && < .2
+      Rect (0, 0, 10, 10)
+      Colour (255, 250, 0)
+    Else If Encoder > .2 && Encoder < .4
+      Rect (10, 0, 10, 10)
+      Colour (255, 150, 0)
+    Else If Encoder > .6 && Encoder < .8
+      Rect (20, 0, 10, 10)
+      Colour (55, 150, 255)
+    Else If Encoder > .8 && Encoder < 1
+      Rect (40, 0, 10, 10)
+      Colour (55, 210, 55)
+  End If
 
 
 
