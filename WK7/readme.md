@@ -42,7 +42,7 @@ One of the direction I want to take my project is down the path of is a 'text to
 
 
 ## PSEUDOCODES
-###### EXAMPLES
+###### DAILY ACTIVITY
 
 START</br>
 Function "PLANT CARE"</br>
@@ -55,6 +55,15 @@ ELSE IF DAYS > 30</br>
   Fertilize;</br>
   Water Plants;</br>
 END IF</br>
+
+###### FOR PROJECT
+
+START</br>
+>INPUT TEXT
+> OUTPUT VECTOR
+> INPUT int(VECTOR)
+GENERATE GRAPHICS????
+
 
 
 
