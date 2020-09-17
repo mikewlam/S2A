@@ -31,11 +31,11 @@ If (xposition < 0 && yposition <0)</br>
 ## PROJECT PROTOTYPE
 ###### SOME VERSIONS OF WHAT IT COULD LOOK LIKE?
 ![Prototype-1](https://user-images.githubusercontent.com/68724434/93170351-759c6800-f76a-11ea-81af-bd13054d08c3.gif)</br>
-One of the direction I want to take my project is down the path of is a 'text to shape' generative system. It came from the discovery of regular expression and metacharacters. I thought if there was a way to use this to search words, maybe there could be way to identify the word based on its metacharacters to then use that as an input to generate outcomes with This would be a direct translate the idea of word strcutrues into a visual shape. Blurring the lines of system that makes up our language. This was somewhat also influenced by [jannis maroscheck's work](https://github.com/mikewlam/S2A/tree/master/WK3). </br>
-**A POTENTIAL SYSTEM COULD LOOK LIKE**
+One of the direction I want to take my project is down the path of is a 'text to shape' generative system. It came from the discovery of regular expression and metacharacters. I thought if there was a way to use this to search words, maybe there could be a way to identify the word based on its metacharacters to then use that as an input to generate outcomes. This would translate the idea of shifting the structure of words into shapes. Blurring the lines of system that makes up our language. This was somewhat also influenced by [jannis maroscheck's work](https://github.com/mikewlam/S2A/tree/master/WK3). </br>
 
-![prototype-2](https://user-images.githubusercontent.com/68724434/93170357-78975880-f76a-11ea-8a83-f149d550c767.gif)</br>
-XYZ</br>
+<img width="814" alt="Screen Shot 2020-09-18 at 8 37 23 am" src="https://user-images.githubusercontent.com/68724434/93535399-36e4f880-f98a-11ea-9b5e-a0141754ce21.png">
+</br>
+Another direction that I could possibly take is a text input by user option. This would require an API of some sort and also RunwayML to generate some outputs. I've found that google has a pre-trained setence encoder where texts can be converted into a series of vector data. I thought this could be have the potential to generate some sort of </br>
 
 
 ## PSEUDOCODES
