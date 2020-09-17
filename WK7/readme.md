@@ -31,7 +31,7 @@ If (xposition < 0 && yposition <0)</br>
 ## PROJECT PROTOTYPE
 ###### SOME VERSIONS OF WHAT IT COULD LOOK LIKE?
 ![Prototype-1](https://user-images.githubusercontent.com/68724434/93170351-759c6800-f76a-11ea-81af-bd13054d08c3.gif)</br>
-One of the direction I want to take my project is down the path of is a 'text to shape' generative system. It came from the discovery of regular expression and metacharacters. I thought if there was a way to use this to search words, maybe there could be way to identify the word based on its metacharacters to then use that as an input to generate outcomes with This would be a direct translate the idea of word strcutrues into a visual shape. Blurring the lines of system that makes up our language. This was somewhat also influenced by [jannis maroscheck's work (https://github.com/mikewlam/S2A/tree/master/WK3). </br>
+One of the direction I want to take my project is down the path of is a 'text to shape' generative system. It came from the discovery of regular expression and metacharacters. I thought if there was a way to use this to search words, maybe there could be way to identify the word based on its metacharacters to then use that as an input to generate outcomes with This would be a direct translate the idea of word strcutrues into a visual shape. Blurring the lines of system that makes up our language. This was somewhat also influenced by [jannis maroscheck's work](https://github.com/mikewlam/S2A/tree/master/WK3). </br>
 **A POTENTIAL SYSTEM COULD LOOK LIKE**
 
 ![prototype-2](https://user-images.githubusercontent.com/68724434/93170357-78975880-f76a-11ea-8a83-f149d550c767.gif)</br>
