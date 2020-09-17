@@ -3,7 +3,7 @@
 ## PROJECT UPDATE
 <img width="814" alt="Screen Shot 2020-09-18 at 8 37 23 am" src="https://user-images.githubusercontent.com/68724434/93535399-36e4f880-f98a-11ea-9b5e-a0141754ce21.png">
 </br> 
-![semantictextual](https://user-images.githubusercontent.com/68724434/93535924-4d3f8400-f98b-11ea-874a-6630395781d3.png)
+<src img =https://github.com/mikewlam/S2A/blob/master/WK7/semantictextual.png>
 </br>
 A direction that I could possibly take is a text input by user option. This would require an API of some sort or using RunwayML to generate some outputs. I've found that google has a pre-trained setence encoder where texts can be converted into a series of vector data. I thought this could be have the potential to generate some sort of visualizer. I thought potentially a mosaic tile with different colors depending on the vector information could be interesting. Touches on the visualization of words but also a simple system for generating the outcome.</br>
 
