@@ -44,21 +44,22 @@ One of the direction I want to take my project is down the path of is a 'text to
 ## PSEUDOCODES
 ###### DAILY ACTIVITY
 
-````START</br>
-Function "PLANT CARE"</br>
-INPUT Days</br>
-IF DAYS < 7</br>
-  Check Tomorrow;</br>
-ELSE IF DAYS > 7 && DAYS < 30</br>
-  Water Plants;</br>
-ELSE IF DAYS > 30</br>
-  Fertilize;</br>
-  Water Plants;</br>
-END IF</br>
+```START
+  Function "PLANT CARE"
+  INPUT Days
+    IF DAYS < 7
+      Check Tomorrow;
+    ELSE IF DAYS > 7 && DAYS < 30
+      Water Plants;
+    ELSE IF DAYS > 30
+      Fertilize;
+      Water Plants;
+  END IF
+```
 
 ###### FOR PROJECT
 
-````START</br>
+```START
     INPUT TEXT<br>
     OUTPUT VECTOR
     INPUT int(VECTOR)
