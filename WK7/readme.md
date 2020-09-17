@@ -44,7 +44,8 @@ One of the direction I want to take my project is down the path of is a 'text to
 ## PSEUDOCODES
 ###### DAILY ACTIVITY
 
-```START
+```
+START
   Function "PLANT CARE"
   INPUT Days
     IF DAYS < 7
@@ -59,11 +60,12 @@ One of the direction I want to take my project is down the path of is a 'text to
 
 ###### FOR PROJECT
 
-```START
-    INPUT TEXT<br>
-    OUTPUT VECTOR
-    INPUT int(VECTOR)
-        GENERATE GRAPHICS????
+```
+START
+  INPUT TEXT<br>
+  OUTPUT VECTOR
+  INPUT int(VECTOR)
+    GENERATE GRAPHICS????
 
 
 
