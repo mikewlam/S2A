@@ -6,6 +6,7 @@
 <img src ="https://github.com/mikewlam/S2A/blob/master/WK7/semantictextual.png">
 </br>
 A direction that I could possibly take is a text input by user option. This would require an API of some sort or using RunwayML to generate some outputs. I've found that google has a pre-trained setence encoder where texts can be converted into a series of vector data. I thought this could be have the potential to generate some sort of visualizer. I thought potentially a mosaic tile with different colors depending on the vector information could be interesting. Touches on the visualization of words but also a simple system for generating the outcome.</br>
+There could be a variety of ways to source the text. Either through loadStrings of a text file, or sourced from available materials like [Project Gutenberg](https://github.com/aparrish/gutenberg-poetry-corpus) or even just allowing users to enter texts through [textArea](https://youtu.be/uNQSVU0IKec?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch)
 
 ## GENERATIVE TYPOGRAPHY (Tutorial)
 
