@@ -44,7 +44,7 @@ One of the direction I want to take my project is down the path of is a 'text to
 ## PSEUDOCODES
 ###### DAILY ACTIVITY
 
-START</br>
+````START</br>
 Function "PLANT CARE"</br>
 INPUT Days</br>
 IF DAYS < 7</br>
