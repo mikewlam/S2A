@@ -3,7 +3,7 @@
 ## PROJECT UPDATE
 <img width="814" alt="Screen Shot 2020-09-18 at 8 37 23 am" src="https://user-images.githubusercontent.com/68724434/93535399-36e4f880-f98a-11ea-9b5e-a0141754ce21.png">
 </br> 
-![Screen Shot 2020-09-18 at 8 40 39 am](https://user-images.githubusercontent.com/68724434/93535620-a9ee6f00-f98a-11ea-9ad7-c542019226ba.png)
+![Screen Shot 2020-09-18 at 8 40 39 am](https://user-images.githubusercontent.com/68724434/93535820-21bc9980-f98b-11ea-9c1a-b3c44659e602.png)
 </br>
 A direction that I could possibly take is a text input by user option. This would require an API of some sort or using RunwayML to generate some outputs. I've found that google has a pre-trained setence encoder where texts can be converted into a series of vector data. I thought this could be have the potential to generate some sort of visualizer. I thought potentially a mosaic tile with different colors depending on the vector information could be interesting. Touches on the visualization of words but also a simple system for generating the outcome.</br>
 
