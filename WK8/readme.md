@@ -5,7 +5,6 @@
 ###### SUMMARY
 
 Spending some time this week to briefly run through each of our prototypes and pseudocodes to get a sense of where we're heading in our projects. There's still a lot of loose ends in my idea but I think I mostly need to start experimenting with the sketching out the prototypes to get a sense of whether my thoughts are correct. (From previous week, the runwayML to use vectors from words or the ML5 word2vec library) The big question being how could I extrapolate the data, in this case the vector data, to a comprehensible input that I can input as a variable to my sketch. From what I've seen, the vector information is extension and complicated.. is there a way to average this number? what would this mean in the scope of the project and how can I use this to generate a variable that's suitable to my project?<br/>
-</br>
 
 ###### IN CLASS TUTORIAL
 
