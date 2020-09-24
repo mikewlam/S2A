@@ -4,6 +4,7 @@
 ## Welcome to a space for thoughts on generative design, language and typography.
 
 Week by week summary of a RMIT studio journey can be found below:</br>
+
 01-[COLLECTED THOUGHTS AND OBSERVATIONS](https://github.com/mikewlam/S2A/tree/master/WK1)</br>
 02-[PROCESSING INTRO AND GENERATIVE DESIGN](https://github.com/mikewlam/S2A/tree/master/WK2)</br>
 03-[OFFGRID SESSION ON [HUMAN MACHINE COLLABORATION] & INTRODUCTION TO PITCH](https://github.com/mikewlam/S2A/tree/master/WK3)</br>
