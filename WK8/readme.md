@@ -19,4 +19,4 @@ A few things this week I've been trying to tick off on p5.
 - [x] Display string in sequence
 - [x] incorporate Speech.js
 - [ ] Extract confidence data as variable
-- [ ] 
+- [ ] Incorporate RiTa library to analyse text
