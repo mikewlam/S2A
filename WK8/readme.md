@@ -8,6 +8,8 @@ Spending some time this week to briefly run through each of our prototypes and p
 
 ###### IN CLASS TUTORIAL
 
+**Speech.js**
+
 Thanks to Shuchen, we were shown an implementation of speechRec library and how to detect speech within a p5js sketch. the speechRec library was quite dynamic and incredibly accurate. I was instantly drawn to the possibilities with this within my project scope and what kind of data I could extrapolate in addition to vector information... or perhaps both? I felt this could be gateway for me to potentially add another element to my project in addition to the variable text display. I am thinking potentially allow users to read the display of the text displayed on the screen, using data from the speech input to generate a variation to the sketch.
 
 ## PROTOTYPE IN CODE, ITERATIONS.
