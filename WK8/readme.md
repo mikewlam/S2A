@@ -14,3 +14,9 @@ Thanks to Shuchen, we were shown an implementation of speechRec library and how 
 
 ## PROTOTYPE IN CODE, ITERATIONS.
 
+A few things this week I've been trying to tick off on p5.
+- [x] Load external .txt file and join and split array into string
+- [x] Display string in sequence
+- [x] incorporate Speech.js
+- [ ] Extract confidence data as variable
+- [ ] 
