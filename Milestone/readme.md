@@ -81,7 +81,7 @@ function draw() {
   //if (curIndex > sourceText.length) {
     //curIndex = 0;
 ```
-###### Most Current Iteration
+###### Single Text Display with SpeechRec Confidence variable
 ```
 let lang = navigator.language || 'en-US';
 let speechRec = new p5.SpeechRec(lang, gotSpeech);
