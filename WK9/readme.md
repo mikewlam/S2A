@@ -12,7 +12,7 @@ After the milestone presentation, a few thoughts came to me through conversation
 
 **So the project would situate as a human-alien(/computer) interaction. The machine would ask a question, using the system of grammar that human's use, in order to generate a zero context question that invites a human response. The human's response in words, is read by an alien(/computer) as codes. This code is used to generate the alien(/computer)'s interpretation of the human language. Exploring an interaction that has no meaning.. and purely experiential**
 
-As I was planning to figure out the RiTa library this week, I realised that there was a function from the library that can randomly select words based on the parameters of a part of speech (POS). So What i was able to create from this was a series of randomly generated questions that have absolutely no context but act as an invitation for a human user to 'respond'. through this response.. the data input could then be used to generate a machine interpretation of the human language. </br>
+As I was planning to figure out the RiTa library this week, I realised that there was a function from the library that can randomly select words based on the parameters of a part of speech (POS). So What i was able to create from this was a series of randomly generated questions that have absolutely no context. </br>
 
 **Here are some examples of generated questions based on the following syntax**</br>
 
