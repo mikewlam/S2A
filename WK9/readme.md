@@ -28,7 +28,7 @@ As for the output from human response, two things I keep coming back to were pre
 - I could also play with the part of speech breakdown of the input, assigning a value for different POS as JSON to use as variable to generate the connection. But this would add the human system for language to generate a computer response which seems to contradict the concept of this generative response.
 - Another precedent that I kept thinking of was the film [Arrival](https://cdn.vox-cdn.com/thumbor/SI-DlR6Y4-yyL6MuuGMRFKaIw00=/0x0:1497x787/920x0/filters:focal(0x0:1497x787):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7469305/ArrivalInk.png) and how the nature of the symbol communicates this string of human words. Also the fact that it was non-liear, I thought could be quite an interesting direction to follow. I came across the works of [Étienne Jacob, who does these phenomenal looping gif artworks](https://user-images.githubusercontent.com/68724434/94509007-a09cb680-0256-11eb-82b4-0d76bdd291bf.gif) and so I was experimenting with a base code provided by [Daniel Shiffman](https://www.youtube.com/watch?v=ZI1dmHv3MeM) to create a similar effect.
 
-###### EXPERIMENTATIONS
+###### EXPERIMENTATIONS (Working Codes uploading in folder)
 
 ![Screen Shot 2020-09-29 at 10 38 02 am](https://user-images.githubusercontent.com/68724434/94509194-0db04c00-0257-11eb-8882-87041b8691a0.png)
 ![Screen Shot 2020-09-29 at 1 29 35 pm](https://user-images.githubusercontent.com/68724434/94509686-2705c800-0258-11eb-8e6f-746a708c2523.png)
