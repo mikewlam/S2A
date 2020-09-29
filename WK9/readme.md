@@ -1,5 +1,7 @@
 # W9_25.09.2020
 
+###### CURRENT CODES ARE UPLOADED IN THIS WEEK'S FOLDER
+
 ## ANOTHER PIVOT
 
 After the milestone presentation, a few thoughts came to me through conversations I've had to refocus the direction of my project. I think playing around with the basics of text input and p5js was a good starting point but what I realised was that the outcomes fell short to really present any sort of communication towards the project concept. An idea then occured to me over the weekend.
