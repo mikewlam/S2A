@@ -28,3 +28,9 @@ Another precedent that I kept thinking of was the film [Arrival](https://cdn.vox
 
 ![Screen Shot 2020-09-29 at 10 38 02 am](https://user-images.githubusercontent.com/68724434/94509194-0db04c00-0257-11eb-8882-87041b8691a0.png)
 ![Screen Shot 2020-09-29 at 1 29 35 pm](https://user-images.githubusercontent.com/68724434/94509686-2705c800-0258-11eb-8e6f-746a708c2523.png)
+
+I've yet to come up with a set of code that is flexible and unique enough. And i'm wondering whether points or singular shape would be best for this context. I'm also considering whether to keep it static or animated, with the possibility of sound being incorporated as an additional element.
+
+###### POTENTIAL EXTENSIONS
+
+Talking through my idea with Louis, he brought up an interesting point of archiving a record of these human-machine interactions. Which would be a great way to extend this into a printed matter, potentially collecting a series of a non-meaning interactions and juxtaposing them with a collection of generative art as a visual representation to the words and language that we use.
