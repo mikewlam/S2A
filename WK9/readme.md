@@ -33,6 +33,10 @@ Another precedent that I kept thinking of was the film [Arrival](https://cdn.vox
 
 ![Screen Shot 2020-09-29 at 10 38 02 am](https://user-images.githubusercontent.com/68724434/94509194-0db04c00-0257-11eb-8882-87041b8691a0.png)
 ![Screen Shot 2020-09-29 at 1 29 35 pm](https://user-images.githubusercontent.com/68724434/94509686-2705c800-0258-11eb-8e6f-746a708c2523.png)
+![Screen Shot 2020-09-29 at 4 22 51 pm](https://user-images.githubusercontent.com/68724434/94532889-c8554400-0281-11eb-83da-64549d44e6e8.png)
+![Screen Shot 2020-09-29 at 4 28 55 pm](https://user-images.githubusercontent.com/68724434/94532902-cdb28e80-0281-11eb-8b43-02214c3176b3.png)
+![Screen Shot 2020-09-29 at 4 34 44 pm](https://user-images.githubusercontent.com/68724434/94532908-d014e880-0281-11eb-8526-011dcb706622.png)
+
 
 - I've yet to come up with a set of code that is flexible and unique enough. And i'm wondering whether points or connected points would be best for this context. 
 - Perhaps I could play with overlaying multiple sets to increase the complexity of the outcome?
