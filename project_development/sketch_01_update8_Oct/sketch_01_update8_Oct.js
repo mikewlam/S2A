@@ -8,7 +8,7 @@ var F1, F2, F3;
 var textInput;
 var mode;
 var textEntry, textStatement, RiTa, answer;
-var statement = 'Insert project statement, description of who, what and why. Context for the project and what it aims to produce.';
+var statement = 'HELLO';
 var start = 'Click to Start or Refresh';
 var textDisplay = [];
 var field, button;
@@ -21,6 +21,10 @@ var xhsb;
 
 //Sound Part
 var wave;
+var freq, amp;
+var playing;
+
+
 //input analysis
 var resultValue, resultWord, result, vowels, notWord;
 
@@ -52,10 +56,10 @@ function setup() {
   angleMode(DEGREES);
   //translate(windowWidth/2, windowHeight/2);
   lexicon = new RiLexicon();
-  wave = new p5.Oscillator();
-  wave.setType('sine');
-  wave.amp(1);
-  wave.freq(300);
+  wave = new p5.Oscillator('sine');
+  //wave.setType('sine');
+  //wave.amp(1);
+  //wave.freq(300);
   
   textAlign(CENTER, CENTER);
   smooth();
@@ -144,7 +148,7 @@ function textData() {
   //Exterior  
   x0 = map(resultValue, 0, 100, 0.1, 7);
   x1 = map(resultWord, 0, 12, 1, 15);
-  x1a = map(resultWord, 0, 10, -300, -900);
+  x1a = map(resultWord, 0, 10, 100, -900);
   //Details
   x2 = map(resultValue, 0, 100, 0.025, 0.1); //
   x3 = map(notWords, 0, 15, 0, 0.01); //animate
@@ -152,6 +156,11 @@ function textData() {
   x5 = map(resultWord, 0, 10, 0.25, 5);
 
   noiseSeed(random(10)); 
+  
+//Sound Variables
+  
+  wave.start();
+  playing=true;
    
   //clear input value
   field.value('');
@@ -186,7 +195,8 @@ function draw() {
                  //let y = -r * sin(a) + random(sin(TWO_PI*t), -sin(TWO_PI*t));
                                                 
                           for (let a=0; a<360; a+=0.2) { //a is the amount of dots
-                             
+                             amp=constrain(map(x5+a, 0.25, 5, 0, 1), 0, 1);
+                             freq = constrain(map(random(resultValue, resultWord, a), 1, 100, 500), 100, 50);  
                              let noiseMax = map(random(a), 0, 360, 0.1, x0);
                              //stroke(xr, xg, xb, 6);
                              let xoff = map(cos(a), -1, 1, 0, noiseMax); //this value controls the sharpness of angle
@@ -220,14 +230,13 @@ function draw() {
  noStroke();
  answer = text(result, 0, windowHeight*0.3);
 
- 
- //noStroke();
- //fill(bgcolor);
- //smooth();
-                 
-                 
-                //} //mode = 3, draw
+if (playing) {
+  wave.freq(freq, 0.1);
+  wave.amp(amp, 0.1);
+}
                 
+
+
  }
   for (var i=0; i<textDisplay.length; i++) {
     textDisplay[i].display();
@@ -323,6 +332,8 @@ function keyPressed () {
     //Interactive page
     // 27 is ESC
      if (keyCode === 27 && mode == 3) {
+       wave.amp(0,0.5);
+       playing=false;
        colorMode(RGB);
        translate (-windowWidth/2, -windowHeight/2);
        
@@ -330,6 +341,7 @@ function keyPressed () {
          background(bgbase);
          particles.splice(0, maxP);
          textDisplay.splice(0, 800);
+         
        //}
       mode = 1;
       zoff=0;
