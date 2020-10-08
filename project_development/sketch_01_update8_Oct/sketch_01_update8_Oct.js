@@ -8,7 +8,7 @@ var F1, F2, F3;
 var textInput;
 var mode;
 var textEntry, textStatement, RiTa, answer;
-var statement = 'HELLO';
+var statement = 'placeholder..';
 var start = 'Click to Start or Refresh';
 var textDisplay = [];
 var field, button;
