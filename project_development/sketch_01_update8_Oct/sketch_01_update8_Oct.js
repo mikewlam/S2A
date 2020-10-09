@@ -8,7 +8,7 @@ var F1, F2, F3;
 var textInput;
 var mode;
 var textEntry, textStatement, RiTa, answer;
-var statement = 'placeholder..';
+var statement = '\"MONOLOG\"';
 var start = 'Click to Start or Refresh';
 var textDisplay = [];
 var field, button;
