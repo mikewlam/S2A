@@ -3,6 +3,8 @@
 
 ## Welcome to a space for thoughts on generative design, language and typography.
 
+Project Link <mikewlam.github.io/S2A/VISCERAL_NONSENSE/V_N_Sketch/index.html>
+
 Week by week summary of a RMIT studio journey can be found below:</br>
 
 01-[COLLECTED THOUGHTS AND OBSERVATIONS](https://github.com/mikewlam/S2A/tree/master/WK1)</br>
