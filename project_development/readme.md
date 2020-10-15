@@ -1,3 +1,4 @@
+[Weird Bezier thing](https://mikewlam.github.io/S2A/project_development/Outcome_byNoiseBezier_DSHIFFMAN/index.html)</br>
 [Noise Loop](https://mikewlam.github.io/S2A/project_development/NoiseLoop/index.html)</br>
 [Iteration-1st October](https://mikewlam.github.io/S2A/project_development/MainScript/index.html)</br>
 [Iteration-8th October](https://mikewlam.github.io/S2A/project_development/sketch_01_update8_Oct/index.html)</br>
