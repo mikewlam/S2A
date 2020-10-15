@@ -26,7 +26,8 @@ var xhsb;
 //input analysis
 var resultValue, resultWord, result, vowels, notWord;
 
-//Daniel Shiffman How to Loop Animation, found at https://www.youtube.com/watch?v=ZI1dmHv3MeM
+//Daniel Shiffman How to Loop Animation, 
+//found at https://www.youtube.com/watch?v=ZI1dmHv3MeM
 
 //Drawing Circle, closed.
 let phase = 0;
