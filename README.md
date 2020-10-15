@@ -3,7 +3,7 @@
 
 ## Welcome to a space for thoughts on generative design, language and typography.
 
-Project Link: https://mikewlam.github.io/visceral-nonsense/project/index.html
+Project Link: https://mikewlam.github.io/visceral-nonsense/projectfile/index.html
 
 Week by week summary of a RMIT studio journey can be found below:</br>
 
