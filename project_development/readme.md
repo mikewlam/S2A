@@ -1,4 +1,4 @@
-[8th October](https://mikewlam.github.io/S2A/project_development/sketch_01_update8_Oct/index.html)
+[8th October](https://mikewlam.github.io/S2A/project_development/sketch_01_update8_Oct/index.html)</br>
 [12th October](https://mikewlam.github.io/S2A/project_development/sketch_01_update8_Oct/project_sound/index.html)
 
 
