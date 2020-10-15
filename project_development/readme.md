@@ -1,1 +1,11 @@
+Base code for visual outcome. Introduced by Daniel Shiffman on https://www.youtube.com/watch?v=ZI1dmHv3MeM
 
+```
+  for (let a = 0; a < TWO_PI; a+=0.01){
+    xoff = map(cos(a+phase), -1, 1, 0, 200);
+    yoff = map(sin(a), -1, 1, 0, 200);
+    let r = map(noise(xoff, yoff, zoff), 0, 1, -800, windowHeight*0.6);
+    let x = r * cos(a);
+    let y = r * sin(a);
+    point(x, y);
+```
