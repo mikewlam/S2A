@@ -45,3 +45,9 @@ Another precedent that I kept thinking of was the film [Arrival](https://cdn.vox
 ###### POTENTIAL EXTENSIONS
 
 Talking through my idea with Louis, he brought up an interesting point of archiving a record of these human-machine interactions. Which would be a great way to extend this into a printed matter, potentially collecting a series of a non-meaning interactions and juxtaposing them with a collection of generative art as a visual representation to the words and language that we use.
+
+**Sketches**
+
+[00](https://mikewlam.github.io/S2A/WK09/Project_script/)
+[01](https://mikewlam.github.io/S2A/WK09/Circle_ObjectinClass/)
+[02](https://mikewlam.github.io/S2A/WK09/DShiffman_Circle_Noise/)
