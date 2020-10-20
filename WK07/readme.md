@@ -37,7 +37,7 @@ If (xposition < 0 && yposition <0)
 ![Prototype-1](https://user-images.githubusercontent.com/68724434/93170351-759c6800-f76a-11ea-81af-bd13054d08c3.gif)
 
 One of the direction I want to take my project is down the path of is a 'text to shape' generative system. It came from the discovery of regular expression and metacharacters. I thought if there was a way to use this to search words, maybe there could be a way to identify the word based on its metacharacters to then use that as an input to generate outcomes. This would translate the idea of shifting the structure of words into shapes. Blurring the lines of system that makes up our language. This was somewhat also influenced by 
-[jannis maroscheck's work](https://github.com/mikewlam/S2A/tree/master/WK03).
+[jannis maroscheck's work](https://mikewlam.github.io/S2A/WK03).
 
 
 ## PSEUDOCODES
