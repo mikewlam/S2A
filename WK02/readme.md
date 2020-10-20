@@ -64,7 +64,10 @@ else {
 
 Remixing Vinny's character to have moving interactive eyebrows
 
-<img src=https://github.com/mikewlam/S2A/blob/master/WK2/MovingBrow.png><img src=https://github.com/mikewlam/S2A/blob/master/WK2/AngryBrow.png>
+<img src=https://github.com/mikewlam/S2A/blob/master/WK2/MovingBrow.png>
+
+<img src=https://github.com/mikewlam/S2A/blob/master/WK2/AngryBrow.png>
 
 at the end of our session this week, we went into a quick exercise to discuss some ideas around Input, Output and Process. Some preliminary thoughts on system generated design and perhaps an exercise that will lead to our projects.
+
 <img src=https://github.com/mikewlam/S2A/blob/master/WK2/IN.OUTPUT.png>
