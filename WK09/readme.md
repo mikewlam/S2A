@@ -48,6 +48,6 @@ Talking through my idea with Louis, he brought up an interesting point of archiv
 
 **Sketches**
 
-[00](https://mikewlam.github.io/S2A/WK09/Project_script/)
-[01](https://mikewlam.github.io/S2A/WK09/Circle_ObjectinClass/)
-[02](https://mikewlam.github.io/S2A/WK09/DShiffman_Circle_Noise/)
+[00](https://mikewlam.github.io/S2A/WK09/Project_script)
+[01](https://mikewlam.github.io/S2A/WK09/Circle_ObjectinClass)
+[02](https://mikewlam.github.io/S2A/WK09/DShiffman_Circle_Noise)
