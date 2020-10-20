@@ -1,6 +1,6 @@
 ###### Michael W Lam
 
-# ://Slave_2-theAlgorithm\\•:
+# SLAVE TO THE ALGORITHM, 2020
 
 ## Welcome to a space for thoughts on generative design, language and typography.
 
