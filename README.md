@@ -7,15 +7,15 @@ Project Link: https://mikewlam.github.io/visceral-nonsense/projectfile/index.htm
 
 Week by week summary of a RMIT studio journey can be found below:</br>
 
-01-[COLLECTED THOUGHTS AND OBSERVATIONS](https://github.com/mikewlam/S2A/tree/master/WK1)</br>
-02-[PROCESSING INTRO AND GENERATIVE DESIGN](https://github.com/mikewlam/S2A/tree/master/WK2)</br>
-03-[OFFGRID SESSION ON [HUMAN MACHINE COLLABORATION] & INTRODUCTION TO PITCH](https://github.com/mikewlam/S2A/tree/master/WK3)</br>
-04-[PROCESSING TUTORIAL ON IMAGE + TYPOGRAPHY & PROJECT PITCH DEVELOPMENT](https://github.com/mikewlam/S2A/tree/master/WK4)</br>
-05-[PITCH WEEK - "READING THERAPY" (working title)](https://github.com/mikewlam/S2A/tree/master/WK5)</br>
-06-[PROJECT MAPPING & PAPER PROTOTYPE EXERCISE](https://github.com/mikewlam/S2A/tree/master/WK6)</br>
-07-[PROJECT UPDATE, PSUEDOCODE & GENERATIVE TYPOGRAPHY](https://github.com/mikewlam/S2A/tree/master/WK7)</br>
-08-[PROGRESS IN SESSION, PROTOTYPE IN CODE, ITERATIONS](https://github.com/mikewlam/S2A/tree/master/WK8)</br>
-09-[ANOTHER PIVOT. THE FINAL STRETCH](https://github.com/mikewlam/S2A/tree/master/WK9)</br>
+01-[COLLECTED THOUGHTS AND OBSERVATIONS](https://mikewlam.github.io/S2A/WK01)</br>
+02-[PROCESSING INTRO AND GENERATIVE DESIGN](https://mikewlam.github.io/S2A/WK02)</br>
+03-[OFFGRID SESSION ON [HUMAN MACHINE COLLABORATION] & INTRODUCTION TO PITCH](https://mikewlam.github.io/S2A/WK03)</br>
+04-[PROCESSING TUTORIAL ON IMAGE + TYPOGRAPHY & PROJECT PITCH DEVELOPMENT](https://mikewlam.github.io/S2A/WK04)</br>
+05-[PITCH WEEK - "READING THERAPY" (working title)](https://mikewlam.github.io/S2A/WK05)</br>
+06-[PROJECT MAPPING & PAPER PROTOTYPE EXERCISE](https://mikewlam.github.io/S2A/WK06)</br>
+07-[PROJECT UPDATE, PSUEDOCODE & GENERATIVE TYPOGRAPHY](https://mikewlam.github.io/S2A/WK07)</br>
+08-[PROGRESS IN SESSION, PROTOTYPE IN CODE, ITERATIONS](https://mikewlam.github.io/S2A/WK08)</br>
+09-[ANOTHER PIVOT. THE FINAL STRETCH](https://mikewlam.github.io/S2A/WK09)</br>
 10-</br>
 11-</br>
 12-</br>
