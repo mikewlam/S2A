@@ -1,4 +1,4 @@
-# W1_24.07.2020</br>
+# W1_24.07.2020
 ## Some collected thoughts and observations.
 
 The start of a journey. Initial thoughts were "don't know anything, let's just give it a go." Indeed, that was the case but there turns out to be more that I did not realise I didn't know. But we're good. Karen's here to lead us to liberation. So we'll start with baby steps.</br>
