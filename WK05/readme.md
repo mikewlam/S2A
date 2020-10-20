@@ -13,20 +13,19 @@ Tan Lin's work on Ambient Text was really the main intrigue that drove this trai
 ###### USEFUL RESOURCES THAT CAN GUIDE THE PROJECT INTO EXISTANCE
 
 1. [Allison Parrish published a github repository to guide through the process of using Python for Text and Data (Scraping)](https://github.com/aparrish/dmep-python-intro)
-
 2. [A github repository on Generative Typography](https://github.com/SpaceTypeContinuum/generative-typography) which may inform the way I produce the final outcome, depending on which direction I end up taking
-
 3. [A guide to text and typography on Javascript](https://creative-coding.decontextualize.com/text-and-type/)
-
 4. [Machine Learning for Natural Language Processing](https://ml5js.org/)
 
 ###### FEEDBACKS ON PITCH
 
 **Jinni Low**
-
 - The potential of generating synthetic images through text, a visual form of story telling. [Link to a reference](https://experiments.runwayml.com/generative_engine/)
 - Extending a research direction that reached beyond current projects that touched on the topic of reading. Potentially conceptually similar in the past, without the technology.
 
 **Karen Ann**
 
-
+- Relevant to the concept of "Post-Literate Society" and the area of slippage between meaning, intent, word and noise.
+- There's an opportunity to look through the traditions of word art and writing systems. (Futurists, Dadaists, Oulip, Burroughs, John Cayley, Stephane Mallarmé)
+- Paul Chan's publishing concerns and Paul Soulellis "library of printed web" as references.
+- Inquiry may be complex and a lot to explore that can lead to an oeuvre of experimentations.
