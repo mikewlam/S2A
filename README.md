@@ -30,6 +30,6 @@ Week by week summary of a RMIT studio journey can be found below:
 
 11 | [WEEK 11](https://mikewlam.github.io/S2A/WK11)
 
-12 | [WEEK 10](https://mikewlam.github.io/S2A/WK12)
+12 | [WEEK 12](https://mikewlam.github.io/S2A/WK12)
 
 ###### This repository was created on [24.07.2020]
