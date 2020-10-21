@@ -29,5 +29,9 @@ I found this code on [neccessary disorder](https://necessarydisorder.wordpress.c
 ![Screen Shot 2020-09-28 at 10 51 42 pm](https://user-images.githubusercontent.com/68724434/96656094-cebf7300-138a-11eb-8dd6-93aef7bf97de.png)
 ![Screen Shot 2020-09-28 at 10 56 36 pm](https://user-images.githubusercontent.com/68724434/96656097-cff0a000-138a-11eb-8bce-710446868f57.png)
 
+## Experimentations
+
+
+
 
 ← →
