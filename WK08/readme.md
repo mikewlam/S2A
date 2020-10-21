@@ -1,5 +1,7 @@
 # W8_18.09.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK07) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK09)
+
 ## PROGRESS IN SESSION
 
 ###### SUMMARY
