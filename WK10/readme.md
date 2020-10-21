@@ -5,7 +5,7 @@
 ###### Andy's Feedback
 Machine reading language -yellow submission form takes me to a visualisation. Not sure what processes are being explored? How is the visualisation different to other words/sentences? Should we understand what is happening, or is it more mysterious/mystical?
 
-**Continuing Development**
+**Development**
 
 I continued to experiment with the base code in which to generate a random distortion of an ellipse shape. Adding in variables of the words through the break down of Word Count, Letter count, below are some of the examples. I'm still trying to figure out how I can create something that's visually more dynamic and intriguing but also something that is more cohesive with the user input. To andy's point, I feel like having some outcome that is completely mysterious needs to be absolutely mesmerizing, like in the case of Ryoji Ikeda's work.
 
