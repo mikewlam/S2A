@@ -1,5 +1,8 @@
 # W12_16.10.2020
 
+![VisceralNonsense-640x640-C](https://user-images.githubusercontent.com/68724434/96661419-bdc92e80-1397-11eb-8f7f-cc73af6d6c21.gif)
+
+
 ###### REFLECTIVE STATEMENT TO CONCLUDE S2A
 
 It was evident to me from the beginning that the inquiry into the topics of post-digital literature and natural language processing was complex and deeply theoretical and philosophical. Despite the finite timeline of this studio and the steep learning curve in generative design, undertaking this project provided a sense of clarity towards a field of design worthwhile of pursuing and a topic of research that's interesting as an ongoing practice. The pressurized environment of this studio can be overwhelming, and it was in certain moments. But it was also necessary to expose methodologies in my design approach that were rigid.<Br>
