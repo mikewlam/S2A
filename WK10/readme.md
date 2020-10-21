@@ -12,7 +12,7 @@ Machine reading language -yellow submission form takes me to a visualisation. No
 ![agif2opt](https://user-images.githubusercontent.com/68724434/96656697-18f52400-138c-11eb-8df5-1928cb42ea97.gif)
 
 
-[Mandala Drawing](https://mikewlam.github.io/S2A/WK11/EJACOB_mandalaDrawing/index.html)
+I found this code on [neccessary disorder](https://necessarydisorder.wordpress.com/) and thought it was just had an amazing effect. I didn't think it was at all relevant to what I'm trying to achieve but I had a peep through the code to see if there was any of the maths that I could understand and potentially extract and use in components. It was fairly complex and interconnected.. which ended up taking too much time and focus to potentially not have too much benefit to my project. Anyway, here's the sketch of the [Mandala Drawing](https://mikewlam.github.io/S2A/WK11/EJACOB_mandalaDrawing/index.html)
 
 ![Screen Shot 2020-09-28 at 10 50 52 pm](https://user-images.githubusercontent.com/68724434/96656086-c9622880-138a-11eb-8cd4-41ac23a45045.png)
 ![Screen Shot 2020-09-28 at 10 51 42 pm](https://user-images.githubusercontent.com/68724434/96656094-cebf7300-138a-11eb-8dd6-93aef7bf97de.png)
