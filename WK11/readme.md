@@ -35,6 +35,9 @@ Few weeks back Louis suggested the potentials of creating an archive of these hu
 ![Screen Shot 2020-10-08 at 9 42 29 pm](https://user-images.githubusercontent.com/68724434/96669565-31c00280-13a9-11eb-9ebc-6a5ce7f771ba.png)
 ![Screen Shot 2020-10-08 at 9 42 21 pm](https://user-images.githubusercontent.com/68724434/96669568-31c00280-13a9-11eb-939b-482cc549a80e.png)
 
+** Finalized Syntax
+
+![Screen Shot 2020-10-08 at 11 13 45 pm](https://user-images.githubusercontent.com/68724434/96669544-2bca2180-13a9-11eb-9b55-535fb7b0abda.png)
 
 ## Sound development
 
