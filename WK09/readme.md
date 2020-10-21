@@ -1,5 +1,7 @@
 # W9_25.09.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK08) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK10)
+
 ###### CURRENT CODES ARE UPLOADED IN THIS WEEK'S FOLDER
 
 ## ANOTHER PIVOT
