@@ -25,6 +25,6 @@ Artist of interest
 
 [ASLSP (As Slow As Possible)](https://www.youtube.com/watch?v=5VOCBRhhVr4)
 
-![Screen Shot 2020-10-08 at 9 42 21 pm](https://user-images.githubusercontent.com/68724434/96669568-31c00280-13a9-11eb-939b-482cc549a80e.png)
+![tumblr_mw4w79ca0P1t1n3nfo1_1280](https://user-images.githubusercontent.com/68724434/96672317-b31a9380-13af-11eb-8e6b-5d354af93b6a.png)
 
 ###### **NOW MID SEMESTER BREAK** Very much looking forward to this time off..
