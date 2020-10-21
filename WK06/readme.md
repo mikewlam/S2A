@@ -17,11 +17,9 @@ This one is a trip down nostalgia lane! Neo-bomberman is a huge favourite from b
 ![YangCapture](https://user-images.githubusercontent.com/68723373/92695547-2f669380-f37b-11ea-9c75-ed7ed95e1bac.GIF)
 Yang captured me making the prototype through her webcam in class (thanks Yang!)
 
-### Steve Reich
+## Artist of interest
 
-Artist of interest
-
-### John Cage
+**John Cage**
 
 [ASLSP (As Slow As Possible)](https://www.youtube.com/watch?v=5VOCBRhhVr4)
 
