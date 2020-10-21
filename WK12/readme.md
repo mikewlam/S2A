@@ -1,5 +1,7 @@
 # W12_16.10.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK11) | [HOME](https://mikewlam.github.io/S2A)
+
 ## Project Presentation and Conclusion
 
 ![VisceralNonsense-640x640-C](https://user-images.githubusercontent.com/68724434/96661419-bdc92e80-1397-11eb-8f7f-cc73af6d6c21.gif)
