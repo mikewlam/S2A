@@ -1,6 +1,6 @@
 # W2_31.07.2020
 
-[PREV](https://mikewlam.github.io/S2A/WK1 | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK03)
+[PREV](https://mikewlam.github.io/S2A/WK01) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK03)
 
 ## PROCESSING INTRO, SELF-PORTRAITS AND BRAINSTORMING SYSTEM GENERATED DESIGN
 
