@@ -1,5 +1,7 @@
 # W10_02.10.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK09) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK11)
+
 ## PROJECT REFINEMENT AND FEEDBACK SESSION
 
 ###### Andy's Feedback
