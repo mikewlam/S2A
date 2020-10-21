@@ -1,5 +1,7 @@
 # W3_07.08.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK02) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK04)
+
 ## OFFGRID SESSION ON [HUMAN MACHINE COLLABORATION] 
 
 ###### Summary
