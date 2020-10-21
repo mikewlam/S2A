@@ -1,5 +1,7 @@
 # W6_28.08.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK05) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK07)
+
 ## PROJECT MAPPING
 
 The beginning of this class was opened as a consolidation of everyone's pitch (which were all really amazing). Karen analytical processes guided us to "loosely" categorize our projects into fields of practices which allowed students who share or require similar mediums or data knowledge to discuss collaboratively and share any valuable resources. Although at this stage it was still very vague as to what each of us require in detail, it was good to open up discussion amongst the students and also just generally chat about each other's projects and ideas and where we speculate the final outcome could fall.
