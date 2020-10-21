@@ -1,5 +1,7 @@
 # W11_09.10.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK10) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK12)
+
 ## MORE FEEDBACK AND CRITIQUES
 
 [Development October 8](https://mikewlam.github.io/S2A/2.project_development/sketch_01_update8_Oct/index.html)
