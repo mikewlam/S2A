@@ -1,5 +1,7 @@
 # W5_21.08.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK04) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK06)
+
 ## PITCH WEEK - **"READING THERAPY"** (working title)
 
 ![mindmap](https://user-images.githubusercontent.com/68724434/93017226-63a3b380-f60a-11ea-8228-b667c02f15a4.png)![mindmap2](https://user-images.githubusercontent.com/68724434/93017225-60102c80-f60a-11ea-8d19-7798be19a35c.png)
