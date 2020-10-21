@@ -12,7 +12,7 @@ There could be a variety of ways to source the text. Either through loadStrings 
 
 ###### Summary
 
-Lots of helping learnings in this tutorial. </br>
+Lots of helpful learnings in this tutorial.
 * Class, *A set of attributes applied to more than one thing*
 * Constructor *(Allow new members of the class to be recognized)*
 * this.variable = variable *(isolates the mentioned variable)*
