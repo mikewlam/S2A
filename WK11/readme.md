@@ -10,3 +10,5 @@ UI issues always tough once you've developed artwork... how to add UI over the w
 ## Documentation
 
 ![Scan-11](https://user-images.githubusercontent.com/68724434/96661333-89557280-1397-11eb-8d71-d91c1a507171.gif)
+
+![collection](https://user-images.githubusercontent.com/68724434/96666408-c70bc880-13a2-11eb-9f04-f40129a876de.jpg)
