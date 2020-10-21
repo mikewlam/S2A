@@ -8,7 +8,6 @@ Machine reading language -yellow submission form takes me to a visualisation. No
 **Development**
 
 I continued to experiment with the base code in which to generate a random distortion of an ellipse shape. Adding in variables of the words through the break down of Word Count, Letter count, below are some of the examples. I'm still trying to figure out how I can create something that's visually more dynamic and intriguing but also something that is more cohesive with the user input. To andy's point, I feel like having some outcome that is completely mysterious needs to be absolutely mesmerizing, like in the case of Ryoji Ikeda's work.
-
 ![Screen Shot 2020-10-07 at 1 33 58 am](https://user-images.githubusercontent.com/68724434/96653646-49858f80-1385-11eb-886f-8a6c24987bce.png)
 ![Screen Shot 2020-10-07 at 1 33 49 am](https://user-images.githubusercontent.com/68724434/96653649-4c808000-1385-11eb-9939-4e3f207b6bf0.png)
 ![Screen Shot 2020-10-07 at 1 33 40 am](https://user-images.githubusercontent.com/68724434/96653655-4f7b7080-1385-11eb-9b57-cbc469a0fe88.png)
@@ -31,6 +30,9 @@ I found this code on [neccessary disorder](https://necessarydisorder.wordpress.c
 
 ## Experimentations
 
+![Screen Shot 2020-10-08 at 11 48 22 pm](https://user-images.githubusercontent.com/68724434/96669437-f4f40b80-13a8-11eb-9691-c29658ef5f4b.png)
+![Screen Shot 2020-10-08 at 11 48 00 pm](https://user-images.githubusercontent.com/68724434/96669439-f58ca200-13a8-11eb-890c-f9fb031cdb93.png)
+![Screen Shot 2020-10-08 at 11 48 46 pm](https://user-images.githubusercontent.com/68724434/96669428-f1608480-13a8-11eb-84cf-ced5da2d45ae.png)
 
 
 
