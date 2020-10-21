@@ -1,5 +1,7 @@
 # W1_14.07.2020
 
+[PREV](https://mikewlam.github.io/S2A/WK03) | [HOME](https://mikewlam.github.io/S2A) | [NEXT](https://mikewlam.github.io/S2A/WK05)
+
 ## PROCESSING TUTORIAL ON IMAGE & TYPOGRAPHY
 
 ###### Tutorial Summary
