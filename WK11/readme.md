@@ -9,6 +9,13 @@
 - Input section could be more prominent to take centre stage and make it unambiguous.
 - Need an elegant way to return to the question page.
 
+###### Karen's Feedback
+- MONOLOG as a name probably doesn't represent the type of work and foundations that's required to establish RiTa Library
+- Potentially something more directly on the idea of mirroring
+
+###### Louis' Feedback
+- Sound addition may be unncessary as currently it feels very intrusive.
+
 ## Documentation
 
 ![Scan-11](https://user-images.githubusercontent.com/68724434/96661333-89557280-1397-11eb-8d71-d91c1a507171.gif)
