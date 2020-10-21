@@ -39,6 +39,10 @@ Few weeks back Louis suggested the potentials of creating an archive of these hu
 
 ![Screen Shot 2020-10-08 at 11 13 45 pm](https://user-images.githubusercontent.com/68724434/96669544-2bca2180-13a9-11eb-9b55-535fb7b0abda.png)
 
+Output 1 | Wh-Adverb + DO YOU + Verb + Adverb
+
+Output 2 | Coordinating Conjunction + Modal + YOU + Adverb + Verb
+
 ## Sound development
 
 I'm still at the point of uncertainty over whether to incorporate sound into the final project. At this stage, I'm not able to refine the monosynth of oscillator to a point that really adds any sort of ambience to the entire experience. I was in agreeance with Louis that the sound that was in the development was very intrusive. I thought an alternative solution could be just to load a mp3 track that provides a sense of ambience, but when experimenting with some synth tracks, I realised the sectioning of the sketch (question, generative visual) meant that the track can't just be played from the start as it would feel quite disconnecting to how the sketch was set up. So at this stage with a few days before presentation, I'll have to leave the sound side as a future expansion of the project and really investigate how I could better utilize the oscillator/monosyth function.
