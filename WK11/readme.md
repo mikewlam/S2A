@@ -26,6 +26,16 @@ Few weeks back Louis suggested the potentials of creating an archive of these hu
 
 ![collection](https://user-images.githubusercontent.com/68724434/96666408-c70bc880-13a2-11eb-9f04-f40129a876de.jpg)
 
+## Question Refinement
+
+![Screen Shot 2020-10-08 at 10 06 26 pm](https://user-images.githubusercontent.com/68724434/96669554-2f5da880-13a9-11eb-892e-9b9f0fb2dfab.png)
+![Screen Shot 2020-10-08 at 9 43 13 pm](https://user-images.githubusercontent.com/68724434/96669557-2ff63f00-13a9-11eb-8262-aaccdc4005bc.png)
+![Screen Shot 2020-10-08 at 9 43 04 pm](https://user-images.githubusercontent.com/68724434/96669558-308ed580-13a9-11eb-83ea-f58bcb730022.png)
+![Screen Shot 2020-10-08 at 9 42 59 pm](https://user-images.githubusercontent.com/68724434/96669561-31276c00-13a9-11eb-8703-6e60a8fb298c.png)
+![Screen Shot 2020-10-08 at 9 42 29 pm](https://user-images.githubusercontent.com/68724434/96669565-31c00280-13a9-11eb-9ebc-6a5ce7f771ba.png)
+![Screen Shot 2020-10-08 at 9 42 21 pm](https://user-images.githubusercontent.com/68724434/96669568-31c00280-13a9-11eb-939b-482cc549a80e.png)
+
+
 ## Sound development
 
 I'm still at the point of uncertainty over whether to incorporate sound into the final project. At this stage, I'm not able to refine the monosynth of oscillator to a point that really adds any sort of ambience to the entire experience. I was in agreeance with Louis that the sound that was in the development was very intrusive. I thought an alternative solution could be just to load a mp3 track that provides a sense of ambience, but when experimenting with some synth tracks, I realised the sectioning of the sketch (question, generative visual) meant that the track can't just be played from the start as it would feel quite disconnecting to how the sketch was set up. So at this stage with a few days before presentation, I'll have to leave the sound side as a future expansion of the project and really investigate how I could better utilize the oscillator/monosyth function.
