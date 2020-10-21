@@ -26,6 +26,8 @@ Yang captured me making the prototype through her webcam in class (thanks Yang!)
 The manipulation of sound that distorts our viewing experience is a really interesting concept. This piece by John Cage was composed without specificity of how long it should take to perform. In an abandoned church in Germany, there is an organ version of the song scheduled to last 637 years and there's this strange interaction with the piece where note changes only happen every so often, and when it does it becomes the performance. I think this is a fabulous example of incitement of perceptions and a weird display of the idea of slowness.
 
 ![tumblr_mw4w79ca0P1t1n3nfo1_1280](https://user-images.githubusercontent.com/68724434/96672317-b31a9380-13af-11eb-8e6b-5d354af93b6a.png)
+
+Another work by John Cage that I found quite interesting and also relevant. A piece of drawing without the agency of choice. Algorithmic in many ways. Here's a quote of his "I gave up making choices. I’ve merely changed my responsibility from making choices to asking questions.”
 ![tumblr_mw4vw6FGGm1t1n3nfo1_1280](https://user-images.githubusercontent.com/68724434/96673473-510f5d80-13b2-11eb-84e2-79f6f74e2c8f.png)
 
 
