@@ -6,6 +6,8 @@
 
 Project Link : [VISCERAL NONSENSE](https://mikewlam.github.io/visceral-nonsense/projectfile/index.html)
 
+Project Code : [LINK](https://mikewlam.github.io/S2A/4.VISCERAL_NONSENSE)
+
 Week by week summary of a RMIT studio journey can be found below:
 
 01 | [COLLECTED THOUGHTS AND OBSERVATIONS](https://mikewlam.github.io/S2A/WK01)
