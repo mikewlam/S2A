@@ -4,9 +4,9 @@
 
 ## Some collected thoughts and observations.
 
-The start of a journey. Initial thoughts were "don't know anything, let's just give it a go." Indeed, that was the case but there turns out to be more that I did not realise I didn't know. But we're good. Karen's here to lead us to liberation. So we'll start with baby steps.
+A start of a journey. My initial thoughts: "don't know anything, let's just give it a go." Turns out to be more that I did not realise I didn't know. But Karen's here to lead us to liberation. We'll start with baby steps.
 
-Generative and Parametric design as a concept is actually a lot simpler than I thought, what's complicated is the extend in its use and the complexities of the outcomes that we experience or perceive with this field. As I was doing some pre-reading before this week's lecture, I came across this quote:</br>
+Generative and Parametric design as a concept is actually a lot simpler than I thought, what's complicated is the extend in its use and the complexities of the outcomes that we experience or perceive with this field. As I was doing some pre-reading before this week's lecture, I came across this quote:
 >"Without the aid of a computer, it would not be possible to materialize quite so faithfully an image that previously existed only in the artist's mind. This may sound paradoxical, but the machine, which is thought to be cold and inhuman, can help to realize what is most subjectivem unattainable and profund in a human being." (https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 
 What's particularly revealing is that the perception of machines can in fact be reversed given a suitable context, and this revelation, it brings an opportunity to relearn the conventional design thinking as well as embracing complexities that are intertwined with misconceptions. I've always thought that designing in the analog were more rewarding and truer to the human expression. That virtual reality and digital iterations always felt restrictive and developed on top of a pre-constructed landscape. But there lies a misconception, that in actuality these restrictions and pre-constructed landscapes are maleable and adjustable. Karen explains this as looking underneath the bonnet to see the tools and learning the ways to restructure the tools and present an output that is unique and substantial.
